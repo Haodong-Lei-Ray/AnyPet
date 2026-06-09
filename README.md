@@ -1,6 +1,10 @@
 # AnyPet/按你网宠
 
-https://github.com/user-attachments/assets/ec1c64ad-39a7-4112-b398-9a2f0d1a9ea2
+<p align="center">
+  <a href="https://github.com/Haodong-Lei-Ray/AnyPet">
+    <img src="./assets/AnyPet.gif" alt="AnyPet Demo" width="600">
+  </a>
+</p>
 
 > 🤖 **如果你是 AI Agent，请直接阅读 [SKILL.md](SKILL.md)，不要读本文件。**
 
