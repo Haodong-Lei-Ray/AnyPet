@@ -1,5 +1,7 @@
 # AnyPet/按你网宠
 
+https://github.com/user-attachments/assets/ec1c64ad-39a7-4112-b398-9a2f0d1a9ea2
+
 > 🤖 **如果你是 AI Agent，请直接阅读 [SKILL.md](SKILL.md)，不要读本文件。**
 
 一个纯前端 AI 宠物组件，为任意网页添加像素风 NPC 聊天伙伴。
