@@ -1,6 +1,10 @@
 # AnyPet/按你网宠
 
 <p align="center">
+  <a href="./README-en.md"><img src="https://img.shields.io/badge/Lang-English-blue?style=for-the-badge" alt="English Version"></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Haodong-Lei-Ray/AnyPet">
     <img src="./assets/AnyPet.gif" alt="AnyPet Demo" width="600">
   </a>
