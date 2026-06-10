@@ -111,3 +111,13 @@ appear → wait ⇄ chat
 - **API**: 智谱AI GLM-4-Flash（免费模型），通过 `config.js` 配置
 - **字体**: VT323（像素拉丁）+ ZCOOL KuaiLe（中文字体），需在页面中加载
 - **其他**: 零外部 JS 依赖，纯原生 DOM API
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=Haodong-Lei-Ray%2FAnyPet&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Haodong-Lei-Ray/AnyPet&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Haodong-Lei-Ray/AnyPet&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Haodong-Lei-Ray/AnyPet&type=date&legend=bottom-right" />
+ </picture>
+</a>
